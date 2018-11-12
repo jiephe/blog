@@ -21,9 +21,9 @@ tags: domain
 以阿里云为例，点击域名之后的“解析”， 只需添加两条记录。
 记录类型都选CNAME，主机记录分别用www和@，记录值就是自己的github.io地址。如下图：
 
-![mark](http://pi28wr1x6.bkt.clouddn.com/blog/181112/m0bA7G638c.png?imageslim)
+![mark](http://pi28wr1x6.bkt.clouddn.com/blog/181112/8m51lFmglF.png?imageslim)
 
-![mark](http://pi28wr1x6.bkt.clouddn.com/blog/181112/3kChJhKALm.png?imageslim)
+![mark](http://pi28wr1x6.bkt.clouddn.com/blog/181112/k4j9j21dli.png?imageslim)
 
 ## GitHub Pages 设置
 Custom domain 输入自己新建的域名 save之后就可以了 如下图：
